@@ -1,0 +1,26 @@
+# Virtual Environment
+pr01_env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment variables / secrets
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+*.out
+*.bak
+*.tmp
+
+# OS / Editor-specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
